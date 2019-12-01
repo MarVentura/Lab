@@ -6,7 +6,7 @@ var fs = require("fs");
 options = {
     "default": {
         "folder": "docs",
-        "document": "homePage.html",
+        "document": "index.html",
         "port": 3001,
         "favicon": "images/etla.jpg"
     },
